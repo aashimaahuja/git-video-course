@@ -1,1 +1,1 @@
-Git revert demo 1 file two
+Remote changed file two text
