@@ -1,1 +1,1 @@
-Remote changed file two text
+Squash demo 3 file two
