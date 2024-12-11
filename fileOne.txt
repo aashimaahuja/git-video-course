@@ -1,1 +1,1 @@
-Squash demo 3
+Squash from pull request commit 1
