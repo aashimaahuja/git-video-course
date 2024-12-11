@@ -1,2 +1,2 @@
-Changes in main by another person
-Pull request changes 1
+
+Squash with pull request commit 3
